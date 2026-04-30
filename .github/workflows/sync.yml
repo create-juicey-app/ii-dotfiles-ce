@@ -1,0 +1,31 @@
+name: Upstream Sync
+
+on:
+  schedule:
+    - cron: '0 0 * * *' 
+  workflow_dispatch: 
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout target branch
+        uses: actions/checkout@v4
+        with:
+          ref: main 
+          fetch-depth: 0
+
+      - name: Sync with Upstream
+        uses: aormsby/Fork-Sync-With-Upstream-action@v3.4.1
+        with:
+          target_repo_token: ${{ secrets.GITHUB_TOKEN }}
+          target_sync_branch: main
+          upstream_sync_repo: end-4/dots-hyprland
+          upstream_sync_branch: main
+          test_mode: false
+
+      - name: Did everything break
+        if: failure()
+        run: |
+          echo "Sync failed. This usually means there is a merge conflict. Have fun!"
+          exit 1
