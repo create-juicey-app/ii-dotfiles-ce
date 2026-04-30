@@ -5,9 +5,9 @@
 
 <div align="center"> 
 
-![](https://img.shields.io/github/last-commit/end-4/dots-hyprland?&style=for-the-badge&color=8ad7eb&logo=git&logoColor=D9E0EE&labelColor=1E202B)
-![](https://img.shields.io/github/stars/end-4/dots-hyprland?style=for-the-badge&logo=andela&color=86dbd7&logoColor=D9E0EE&labelColor=1E202B)
-![](https://img.shields.io/github/repo-size/end-4/dots-hyprland?color=86dbce&label=SIZE&logo=protondrive&style=for-the-badge&logoColor=D9E0EE&labelColor=1E202B)
+![](https://img.shields.io/github/last-commit/create-juicey-app/ii-dotfiles-ce?&style=for-the-badge&color=8ad7eb&logo=git&logoColor=D9E0EE&labelColor=1E202B)
+![](https://img.shields.io/github/stars/create-juicey-app/ii-dotfiles-ce?style=for-the-badge&logo=andela&color=86dbd7&logoColor=D9E0EE&labelColor=1E202B)
+![](https://img.shields.io/github/repo-size/create-juicey-app/ii-dotfiles-ce?color=86dbce&label=SIZE&logo=protondrive&style=for-the-badge&logoColor=D9E0EE&labelColor=1E202B)
 <a href="https://discord.gg/GtdRBXgMwq"> <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscordapp.com%2Fapi%2Finvites%2FGtdRBXgMwq%3Fwith_counts%3Dtrue&query=approximate_member_count&style=for-the-badge&logo=discord&logoColor=D9E0EE&label=discord&labelColor=%231E202B&color=86dbc0&link=https%3A%2F%2Fdiscord.gg%2FGtdRBXgMwq"> </a>
 
 </div>
@@ -57,7 +57,7 @@
   | ------------- | ------------- |
   | [Hyprland](https://github.com/hyprwm/hyprland) | The compositor (manages and renders windows) |
   | [Quickshell](https://quickshell.outfoxxed.me/) | A QtQuick-based widget system, used for the status bar, sidebars, etc. |
-  | Others | See [deps-info.md](https://github.com/end-4/dots-hyprland/blob/main/sdata/deps-info.md) |
+  | Others | See [deps-info.md](https://github.com/create-juicey-app/ii-dotfiles-ce/blob/main/sdata/deps-info.md) |
 
 </details>
 
@@ -103,10 +103,11 @@ Widget system: Quickshell | Support: Yes
     <h3></h3>
 </div>
 
+                                                                                                     v- JuiceyDev here, don't sponsor me.
 - I promise not to attempt an +ULTRARICOSHOT irl... Coins can go here: https://github.com/sponsors/end-4
 - Tentacle cat hub twinkle internet points
 
-[![Stargazers over time](https://starchart.cc/end-4/dots-hyprland.svg?variant=adaptive)](https://starchart.cc/end-4/dots-hyprland)
+[![Stargazers over time](https://starchart.cc/create-juicey-app/ii-dotfiles-ce.svg?variant=adaptive)](https://starchart.cc/create-juicey-app/ii-dotfiles-ce)
 
 
 ---

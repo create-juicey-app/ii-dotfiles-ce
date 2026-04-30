@@ -470,14 +470,14 @@ ApplicationWindow {
                             nerdIcon: "󰊤"
                             mainText: Translation.tr("GitHub")
                             onClicked: {
-                                Qt.openUrlExternally("https://github.com/end-4/dots-hyprland");
+                                Qt.openUrlExternally("https://github.com/create-juicey-app/ii-dotfiles-ce");
                             }
                         }
                         RippleButtonWithIcon {
                             materialIcon: "favorite"
                             mainText: "Funny number"
                             onClicked: {
-                                Qt.openUrlExternally("https://github.com/sponsors/end-4");
+                                Qt.openUrlExternally("https://github.com/sponsors/create-juicey-app");
                             }
                         }
                     }
